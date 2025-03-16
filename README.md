@@ -1,11 +1,2 @@
- prcdmp.exe [process id] [path to file dump] [-param -param...]
-   [-wds] - Dump with data segs.
-   [-whd] - Dump with handle data.
-   [-wum] - Dump with unloaded modules.
-   [-ptd] - Dump with process thread data.
-   [-prm] - Dump with private read write memory.
-   [-fmi] - Dump with full memory info.
-   [-norm] - Default dump.
 
-   [--help] - Show this message.
-   [--showproc] - Show process list
+![Clipboard_03-16-2025_01](https://github.com/user-attachments/assets/e7a917f3-7b94-4db0-8601-0fb9007c24b7)
