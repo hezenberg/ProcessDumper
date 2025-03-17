@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ProcessDumper
 Process dumper for windows.
 =======
